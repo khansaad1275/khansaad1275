@@ -12,10 +12,10 @@
 <img align="right" height="200" width="300" src="https://media1.giphy.com/media/7ALOsHTCDT5fi/giphy.gif">
 
 
--  **Working :** HTML - CSS :computer: | Cloud :cloud: 
+-  **Working :** BASH - PYTHON :computer: | Hacking :man_technologist_tone1: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Hobbies :** Anime 👻: | Music :headphones: | Guitarist :guitar:
+-  **Ask me about :** Termux!, I have a full website on that :heart:
 -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
 -  **Pronouns :** He/Him :innocent: 
 
