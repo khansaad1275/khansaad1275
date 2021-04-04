@@ -16,7 +16,7 @@
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Anime 👻: | Music :headphones: | Guitarist :guitar:
 -  **Ask me about :** Termux!, I have a full website on that :heart:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Fun fact :** I Know Hacking but I think my self as a programmer :man_technologist_tone1: 
 -  **Pronouns :** He/Him :innocent: 
 
 
