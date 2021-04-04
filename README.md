@@ -9,7 +9,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- credits for gif https://giphy.com/izmiragency -->
 
-<img align="right" height="200" width="300" src="dev.gif">
+<img align="right" height="200" width="300" src="https://media1.giphy.com/media/7ALOsHTCDT5fi/giphy.gif">
 
 
 -  **Working :** HTML - CSS :computer: | Cloud :cloud: 
