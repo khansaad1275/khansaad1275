@@ -17,7 +17,7 @@
 -  **Hobbies :** Anime 👻: | Music :headphones: | Guitarist :guitar:
 -  **Ask me about :** Termux!, I have a full website on that :heart:
 -  **Fun fact :** I Know Hacking but I think my self as a programmer :man_technologist: 
--  **My site :** You can learn Ethical Hacking Using your Android phone on my site www.LearnTermux.tech 
+-  **My site :** You can learn Ethical Hacking Using your Android phone on my site 🔗 www.LearnTermux.tech 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
