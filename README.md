@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://media.tenor.com/images/93350caafa4d45ffdb3acdae690def26/tenor.gif)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/khansaad1275/khansaad1275/readme_header.png "Header")](https://media.tenor.com/images/93350caafa4d45ffdb3acdae690def26/tenor.gif)
 
 ### Hi there 👋
 
