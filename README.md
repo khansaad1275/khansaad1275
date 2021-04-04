@@ -27,7 +27,6 @@ My [**Github**](https://github.com/khansaad1275/) profile potrays my journey fro
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### KNOW MORE ABOUT ME>>>>
 <p align="center"><a href="https://github.com/khansaad1275"><img title="SaadMaqsood" src="https://github-readme-stats.vercel.app/api?username=khansaad1275&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
