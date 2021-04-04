@@ -27,7 +27,11 @@ My [**Github**](https://github.com/khansaad1275/) profile potrays my journey fro
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center"><a href="https://github.com/khansaad1275"><img title="SaadMaqsood" src="https://github-readme-stats.vercel.app/api?username=khansaad1275&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="left"><a href="https://github.com/khansaad1275"><img title="SaadMaqsood" src="https://github-readme-stats.vercel.app/api?username=khansaad1275&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+
+<p align="right">
+<a href="https://github.com/khansaad1275"><img title="SaadMaqsood" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansaad1275&layout=compact"></a>
 </p>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
