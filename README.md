@@ -12,7 +12,7 @@
 <img align="right" height="200" width="300" src="https://media1.giphy.com/media/7ALOsHTCDT5fi/giphy.gif">
 
 
--  **Working :** BASH - PYTHON :computer: | Hacking :man_technologist_tone1: 
+-  **Working :** BASH - PYTHON :computer: | Hacking :man_technologist: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Anime 👻: | Music :headphones: | Guitarist :guitar:
 -  **Ask me about :** Termux!, I have a full website on that :heart:
