@@ -39,15 +39,6 @@ My [**Github**](https://github.com/khansaad1275/) profile potrays my journey fro
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=khansaad1275&layout=compact&theme=chartreuse-dark&cache" />
 </a>
 
-<a href="https://github.com/khansaad1275/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khansaad1275&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/khansaad1275/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khansaad1275&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
