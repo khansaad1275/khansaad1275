@@ -37,11 +37,11 @@ My [**Github**](https://github.com/khansaad1275/) profile potrays my journey fro
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/khansaad1275/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khansaad1275&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/khansaad1275/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khansaad1275&repo=convoychat" />
 </a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
