@@ -28,12 +28,25 @@ My [**Github**](https://github.com/khansaad1275/) profile potrays my journey fro
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<a href="https://github.com/khansaad1275"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khansaad1275&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<!-- <a href="https://github.com/khansaad1275"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khansaad1275&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a> <a href="https://github.com/khansaad1275/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansaad1275&langs_count=8"></a>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khansaad1275)  
+ -->
 
-<a href="https://github.com/khansaad1275/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansaad1275&langs_count=8"></a>
+<a href="https://github.com/khansaad1275/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=khansaad1275&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/khansaad1275/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=khansaad1275&layout=compact&theme=material-palenight" />
+</a>
 
-
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khansaad1275)  -->
+<a href="https://github.com/khansaad1275/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khansaad1275&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/khansaad1275/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khansaad1275&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
