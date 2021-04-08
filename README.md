@@ -32,6 +32,7 @@ My [**Github**](https://github.com/khansaad1275/) profile potrays my journey fro
 
 <a href="https://github.com/khansaad1275"><img title="SaadMaqsood" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansaad1275&layout=compact"></a>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khansaad1275)  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
