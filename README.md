@@ -32,11 +32,11 @@ My [**Github**](https://github.com/khansaad1275/) profile potrays my journey fro
  -->
 
 <a href="https://github.com/khansaad1275/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=khansaad1275&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=khansaad1275&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache" alt="Saad Maqsood github stats" />
 </a>
 <a href="https://github.com/khansaad1275/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=khansaad1275&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=khansaad1275&layout=compact&theme=chartreuse-dark&cache" />
 </a>
 
 <a href="https://github.com/khansaad1275/github-readme-stats">
