@@ -30,19 +30,10 @@ My [**Github**](https://github.com/khansaad1275/) profile potrays my journey fro
 
 <a href="https://github.com/khansaad1275"><img title="SaadMaqsood" src="https://github-readme-stats.vercel.app/api?username=khansaad1275&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
-<a href="https://github.com/khansaad1275"><img title="SaadMaqsood" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansaad1275&layout=compact"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khansaad1275&langs_count=8)](https://github.com/khansaad1275/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khansaad1275)  
 
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khansaad1275&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khansaad1275&repo=convoychat" />
-</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
