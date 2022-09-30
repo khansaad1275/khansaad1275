@@ -23,7 +23,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-My [**Github**](https://github.com/khansaad1275/) profile potrays my journey from writing my first ***Hello world*** program in my college to the first **HTML** page to the first **Calculator App** running on the emulator to the first **Machine Learning** model I trained on my system. It has been a journey of consecutive efforts and I look forward to more *open source* projects now. Apart from [Github](https://github.com/khansaad1275/) ask for a **FIFA** game anytime. Connect with me on [**instagram**](https://www.instagram.com/skhan_official/). Make pull requests and I will be happy to merge them. Also :star: if you like any :hugs: 
+My [**Github**](https://github.com/khansaad1275/) profile potrays my journey from writing my first ***Hello world*** program in my college to the first **HTML** page to the first **Calculator App** running on the emulator to the first **Machine Learning** model I trained on my system. It has been a journey of consecutive efforts and I look forward to more *open source* projects now. Apart from [Github](https://github.com/khansaad1275/) ask for a **Minecraft** game anytime. Connect with me on [**instagram**](https://www.instagram.com/skhan_official/). Make pull requests and I will be happy to merge them. Also :star: if you like any :hugs: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
