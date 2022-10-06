@@ -27,18 +27,7 @@ My [**Github**](https://github.com/khansaad1275/) profile potrays my journey fro
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/khansaad1275/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/khansaad1275/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/khansaad1275/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/khansaad1275/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/khansaad1275/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
 
-</details>
 
 
 <!-- <a href="https://github.com/khansaad1275"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khansaad1275&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a> <a href="https://github.com/khansaad1275/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansaad1275&langs_count=8"></a>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khansaad1275)  
