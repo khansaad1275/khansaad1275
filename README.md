@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- credits for gif https://giphy.com/izmiragency -->
 
-<img align="right" height="200" width="300" src="https://media1.giphy.com/media/7ALOsHTCDT5fi/giphy.gif">
+<img align="right" height="200" width="300" src="[https://media1.giphy.com/media/7ALOsHTCDT5fi/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVrZDUxeGV1MjF5YjduMHA4eWZ2OWtqMnM4eGg1OWh5amt1YnZ4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oVvhEYvWDvE1G/giphy.gif)">
 
 
 -  **Working :** BASH - PYTHON :computer: | Hacking :man_technologist: 
