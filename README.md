@@ -2,7 +2,7 @@
 
 [![Blogger](https://img.shields.io/badge/-blogger-222222?style=flat-square&logo=blogger&logoColor=white&link=https://www.LearnTermux.tech)](https://www.LearnTermux.tech)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=pink&link=https://www.instagram.com/skhan_official)](#)
-[![Twitter](https://img.shields.io/badge/-twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/khansaad1275)](https://twitter.com/khansaad1275)
+[![Twitter](https://img.shields.io/badge/-twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/khansaad1275)](#)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/SaadMaqsood1275/)](https://www.facebook.com/SaadMaqsood1275/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saadmaqsood1275/)](https://www.linkedin.com/in/saadmaqsood1275/)
 
