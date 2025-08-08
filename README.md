@@ -24,7 +24,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - [Don't click or you will be logged out from your account](https://youtube.com/logout?continue=https://googleads.g.doubleclick.net/pcs/click?adurl=https://www.youtube.com/watch?v=dQw4w9WgXcQ) <<<---- Don't Click
-- [📬 Wanna talk to me one-on-one? Mail Me](https://mail.google.com/mail/?view=cm&fs=1&to=khansaad1275@gmail.com&su=👋%20Hey%20Saad%2C%20let%27s%20connect%21&body=Hey%20Saad%2C%0A%0AI%20just%20checked%20out%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out%20personally.%0A%0A%5BType%20your%20message%20here%5D%0A%0ALooking%20forward%20to%20hearing%20from%20you%21) <<<---- Auto Email
+- [Wanna talk to me one-on-one? Mail Me](https://mail.google.com/mail/?view=cm&fs=1&to=khansaad1275@gmail.com&su=👋%20Hey%20Saad%2C%20let%27s%20connect%21&body=Hey%20Saad%2C%0A%0AI%20just%20checked%20out%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out%20personally.%0A%0A%5BType%20your%20message%20here%5D%0A%0ALooking%20forward%20to%20hearing%20from%20you%21) <<<---- Auto Email
 
 
 
